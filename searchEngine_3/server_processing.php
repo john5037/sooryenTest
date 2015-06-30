@@ -1,9 +1,4 @@
 <?php
-	/*
-	 * Script:    DataTables server-side script for PHP and MySQL
-	 * Copyright: 2010 - Allan Jardine
-	 * License:   GPL v2 or BSD (3-point)
-	 */
 	
 	/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 	 * Easy set variables
